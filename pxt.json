@@ -1,5 +1,6 @@
 {
     "name": "Stream Accelerometer Data Wirelessly Over Bluetooth - Copy",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
